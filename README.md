@@ -1,5 +1,4 @@
 # cicd-sslsigner
-
 This ansible playbook and module create certificate request file and submits to Microsoft CA (Certificate Authority), sign the certtificate and downloads signed certificate
 
 Sample usage:
